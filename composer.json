@@ -1,0 +1,18 @@
+{
+    "name": "balloon-chen-104/c2",
+    "description": "Create a class named Logger which implement the LoggerInterface interface.",
+    "authors": [
+        {
+            "name": "balloon.chen",
+            "email": "balloon.chen@104.com.tw"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.39"
+    },
+    "autoload": {
+        "psr-4": {
+            "Php\\Exam\\": "src/"
+        }
+    }
+}
